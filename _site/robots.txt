@@ -1,1 +1,1 @@
-Sitemap: https://digidem_ic2s2.github.io/sitemap.xml
+Sitemap: https://digidem-ic2s2.github.io/2024/sitemap.xml
